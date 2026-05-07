@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Studying at NIT Waramgal<br>🤝 I’m looking for help with DSA and developent<br>🌱 I’m currently learning Computer Science And engineering<br>⚡ Fun fact- Friendly
+🔭 I’m currently studying Computer Science at NIT Warangal.<br>🤝 I’m looking to collaborate on Frontend projects and DSA challenges.<br>🌱 I’m currently deepening my knowledge in Data Structures, Algorithms, and Full-stack development.<br>⚡ Fun fact: I speak English, Hindi, and Nepali—but I spend most of my time arguing with C++ compilers and CSS margins.
 
 
 ## 🌐 Socials:
