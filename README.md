@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0ef6cc&height=200&section=header&text=Yuvraj%20Rauniyar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CSE%20%40%20NIT%20Warangal&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0ef6cc&height=200&section=header&text=Yuvraj%20Rauniyar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=DSA%20Enthusiast%20%7C%20CSE%20%40%20NIT%20Warangal&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yuvraj;Frontend+Developer+%7C+CSE+%40+NIT+Warangal;Building+UIs+%7C+Solving+DSA+%7C+Shipping+Code;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yuvraj;Web+Developer+%7C+CSE+%40+NIT+Warangal;Building+UIs+%7C+Solving+DSA+%7C+Shipping+Code;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 
 </div>
 
