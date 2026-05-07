@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yuvraj;A+Passionate+Developer;Learner+%7C+Coder+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
+
+<h3 align="center">A passionate developer and tech enthusiast</h3>
+
 # 💫 About Me:
 🔭 I’m currently studying Computer Science at NIT Warangal.<br>🤝 I’m looking to collaborate on Frontend projects and DSA challenges.<br>🌱 I’m currently deepening my knowledge in Data Structures, Algorithms, and Full-stack development.<br>⚡ Fun fact: I speak English, Hindi, and Nepali—but I spend most of my time arguing with C++ compilers and CSS margins.
 
